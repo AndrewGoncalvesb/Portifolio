@@ -1,0 +1,48 @@
+# 🧱 CHECKLIST DO MEU PORTFÓLIO (HTML, CSS, JS)
+
+## 🗂️ 1. Estrutura de pastas e arquivos
+- [ x ] Criei a pasta principal do projeto (`meu-portfolio/`)
+- [ x ] Criei as subpastas: `assets/css`, `assets/js`, `assets/img`
+- [ x ] Criei o arquivo principal `index.html` na raiz
+- [ x ] Nomeei todos os arquivos **sem acentos ou espaços**
+- [ x ] Guardei todas as imagens dentro da pasta `img/`
+
+---
+
+## 🎨 2. HTML
+- [ x ] Adicionei `<!DOCTYPE html>` no topo
+- [ x ] Adicionei as tags `<html>`, `<head>`, `<body>` corretamente
+- [ x ] Incluí `<meta charset="UTF-8">`
+- [ x ] Incluí a meta tag de responsividade:  
+  `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+- [ x ] Linkei o CSS com `<link rel="stylesheet" href="assets/css/style.css">`
+- [ ] Adicionei o script JS no final do body:  
+  `<script src="assets/js/main.js"></script>`
+- [ ] Testei o HTML no navegador e ele abre sem erros
+
+---
+
+## 💅 3. CSS
+- [ x ] O arquivo `style.css` está salvo em `assets/css/`
+- [ x ] As classes e IDs do HTML estão iguais no CSS
+- [ x ] O site está visualmente organizado e legível
+- [ ] Testei o layout em tela cheia e no celular
+- [ ] As imagens estão com tamanhos proporcionais
+- [ ] Adicionei pequenos efeitos ou animações (opcional)
+
+---
+
+## ⚙️ 4. JavaScript (opcional)
+- [ ] Criei o arquivo `main.js` dentro de `assets/js/`
+- [ ] Testei se o arquivo está funcionando corretamente
+- [ ] Nenhum erro aparece no console (F12 → Console)
+- [ ] As interações (botões, animações, etc.) estão ok
+
+---
+
+## 🌐 5. Revisão final
+- [ ] Testei abrir o site em outro computador
+- [ x ] Todos os caminhos estão relativos (ex: `assets/img/...`)
+- [ ] O site carrega tudo: imagens, CSS e JS
+- [ ] O design está bom tanto em desktop quanto em celular
+- [ ] Tudo pronto para enviar pra Hostinger 🚀
